@@ -13,12 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        // pawani pawani pawaniii
+        // pawani pawani pawaniiii
         // new new
         // doing revert laaaa laaaaa
-
-
-
-        // doing revert again
     }
 }
