@@ -17,10 +17,6 @@ public class MainActivity extends AppCompatActivity {
         // new new
         // doing revert laaaa laaaaa
 
-        //experimental thing
 
-        //pawani
-        //pawani
-        //pawani
     }
 }
